@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-summitcds.myschoolapp.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken_OnSuite	0IAIa5a2922UhWXrE0xu1kXxbW6-7aifq4LAGq50e_Y0NKoRq7Pbwbtl8g0lA4Jkzyfsqa_dCMpAVY62g9jw8sYPM7MUp51yBq5j5C6csx01
-
